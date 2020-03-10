@@ -1,4 +1,4 @@
-# recombination_simulation
+# Recombination_simulation
 
 Document introduction
 
